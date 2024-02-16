@@ -14,6 +14,7 @@
 
 - 主程序（start.exe）使用C++编写
 - 播放原神启动的程序（~~Ginshin_start.exe~~ Genshin_start.exe）由Python 3.11编写
+
 _PS：好像写错了一个字母_
 
 <br/>
