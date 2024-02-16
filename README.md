@@ -10,7 +10,7 @@
 
 <br/>
 
-## 本源码包含的技术
+## 本程序使用的语言
 
 - 主程序（start.exe）使用C++编写
 - 播放原神启动的程序（~~Ginshin_start.exe~~ Genshin_start.exe）由Python 3.11编写
